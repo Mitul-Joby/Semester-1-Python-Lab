@@ -1,0 +1,8 @@
+__pycache__
+
+# Misc
+.vscode
+*.docx
+*.pdf
+*.pptx
+*.tmp
